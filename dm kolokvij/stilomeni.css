@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	background color: #F9DEF6;
+	padding: 10px;
+	width: 600px;
+}
+body{
+	background-image: url(bg.jpg);
+}
+ul{
+	padding:20px;
+	margin-left: auto;
+	margin-right: auto;
+	width:301px;
+	text-align: center;
+}
+li {
+	display: inline;
+	background-color: #D09DC5;
+	margin: 0 16px;
+}
+a {
+	border: 1px solid #822072
+}
+@font-face {
+	font-family:  ;
+	src: url(""probaLanaVutuc.ttf"") format("truetype");
+		}
+.moj-stil {
+	font-family: LanaVutuc;
+		}
+h1 {
+	font-family: LanaVutuc;
+	}
